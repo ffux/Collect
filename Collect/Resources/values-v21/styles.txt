@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+  <!-- Inherit from the light Material Theme -->
+  <style name="MyGreenTheme" parent="android:Theme.Material.Light">
+    <!-- Override the app bar color -->
+    <item name="android:colorPrimary">@color/myPrimaryGreen</item>
+    <!-- Override the status bar color -->
+    <item name="android:colorPrimaryDark">@color/myDarkGreen</item>
+    <!-- Override the color of UI controls -->
+    <item name="android:colorAccent">@color/myAccentGreen</item>
+  </style>
+
+  <style name="MyPinkTheme" parent="android:Theme.Material.Light">
+    <!-- Override the app bar color -->
+    <item name="android:colorPrimary">@color/myPrimaryPink</item>
+    <!-- Override the status bar color -->
+    <item name="android:colorPrimaryDark">@color/myDarkPink</item>
+    <!-- Override the color of UI controls -->
+    <item name="android:colorAccent">@color/myAccentPink</item>
+  </style>
+
+
+  <!-- Theme an individual view: -->
+<style name="CardView.MyGreen">
+
+    <!-- Change the background color to Xamarin blue: -->
+    <item name="cardBackgroundColor">@color/myPrimaryGreen</item>
+
+    <!-- Make the corners very round: -->
+    <item name="cardCornerRadius">18dp</item>
+</style>
+</resources>

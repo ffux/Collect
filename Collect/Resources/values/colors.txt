@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="myPrimaryGreen">#79b800</color>
+  <color name="myDarkGreen">#4c7400</color>
+  <color name="myAccentGreen">#c2e580</color>
+
+  <color name="myPrimaryPink">#EC407A</color>
+  <color name="myDarkPink">#AD1457</color>
+  <color name="myAccentPink">#F48FB1</color>
+  
+  
+</resources>
