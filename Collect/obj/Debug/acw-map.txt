@@ -1,0 +1,48 @@
+Collect.AddCollection, Collect;md569b7b8326eff42a4b6a006505751c4ae.AddCollection
+Collect.AddCollection, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.AddCollection
+Collect.AddCollection;md569b7b8326eff42a4b6a006505751c4ae.AddCollection
+collect.AddCollection;md569b7b8326eff42a4b6a006505751c4ae.AddCollection
+Collect.AddItem, Collect;md569b7b8326eff42a4b6a006505751c4ae.AddItem
+Collect.AddItem, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.AddItem
+Collect.AddItem;md569b7b8326eff42a4b6a006505751c4ae.AddItem
+collect.AddItem;md569b7b8326eff42a4b6a006505751c4ae.AddItem
+Collect.App, Collect;md569b7b8326eff42a4b6a006505751c4ae.App
+Collect.App, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.App
+Collect.App;md569b7b8326eff42a4b6a006505751c4ae.App
+collect.App;md569b7b8326eff42a4b6a006505751c4ae.App
+Collect.CollectionAdapter, Collect;md569b7b8326eff42a4b6a006505751c4ae.CollectionAdapter
+Collect.CollectionAdapter, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.CollectionAdapter
+Collect.CollectionAdapter;md569b7b8326eff42a4b6a006505751c4ae.CollectionAdapter
+collect.CollectionAdapter;md569b7b8326eff42a4b6a006505751c4ae.CollectionAdapter
+Collect.CollectionsActivity, Collect;md569b7b8326eff42a4b6a006505751c4ae.CollectionsActivity
+Collect.CollectionsActivity, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.CollectionsActivity
+Collect.CollectionsActivity;md569b7b8326eff42a4b6a006505751c4ae.CollectionsActivity
+collect.CollectionsActivity;md569b7b8326eff42a4b6a006505751c4ae.CollectionsActivity
+Collect.ItemEditActivity, Collect;md569b7b8326eff42a4b6a006505751c4ae.ItemEditActivity
+Collect.ItemEditActivity, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.ItemEditActivity
+Collect.ItemEditActivity;md569b7b8326eff42a4b6a006505751c4ae.ItemEditActivity
+collect.ItemEditActivity;md569b7b8326eff42a4b6a006505751c4ae.ItemEditActivity
+Collect.ListActivity, Collect;md569b7b8326eff42a4b6a006505751c4ae.ListActivity
+Collect.ListActivity, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.ListActivity
+Collect.ListActivity;md569b7b8326eff42a4b6a006505751c4ae.ListActivity
+collect.ListActivity;md569b7b8326eff42a4b6a006505751c4ae.ListActivity
+Collect.ListAdapter, Collect;md569b7b8326eff42a4b6a006505751c4ae.ListAdapter
+Collect.ListAdapter, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.ListAdapter
+Collect.ListAdapter;md569b7b8326eff42a4b6a006505751c4ae.ListAdapter
+collect.ListAdapter;md569b7b8326eff42a4b6a006505751c4ae.ListAdapter
+Collect.LoginActivity, Collect;md569b7b8326eff42a4b6a006505751c4ae.LoginActivity
+Collect.LoginActivity, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.LoginActivity
+Collect.LoginActivity;md569b7b8326eff42a4b6a006505751c4ae.LoginActivity
+collect.LoginActivity;md569b7b8326eff42a4b6a006505751c4ae.LoginActivity
+Collect.Register, Collect;md569b7b8326eff42a4b6a006505751c4ae.Register
+Collect.Register, Collect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b7b8326eff42a4b6a006505751c4ae.Register
+Collect.Register;md569b7b8326eff42a4b6a006505751c4ae.Register
+collect.Register;md569b7b8326eff42a4b6a006505751c4ae.Register
+Parse.ParsePushBroadcastReceiver, Parse.Android;parse.ParsePushBroadcastReceiver
+Parse.ParsePushBroadcastReceiver, Parse.Android, Version=1.6.1.0, Culture=neutral, PublicKeyToken=null;parse.ParsePushBroadcastReceiver
+Parse.ParsePushBroadcastReceiver;parse.ParsePushBroadcastReceiver
+parse.ParsePushBroadcastReceiver;parse.ParsePushBroadcastReceiver
+Parse.ParsePushService, Parse.Android;parse.ParsePushService
+Parse.ParsePushService, Parse.Android, Version=1.6.1.0, Culture=neutral, PublicKeyToken=null;parse.ParsePushService
+Parse.ParsePushService;parse.ParsePushService
+parse.ParsePushService;parse.ParsePushService
